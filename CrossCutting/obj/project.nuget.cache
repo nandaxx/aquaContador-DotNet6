@@ -1,9 +1,11 @@
 {
   "version": 2,
-  "dgSpecHash": "bE+J4rQSplaGR5HbulltW27tWBoEiRg3g0MyLYibywySrD/7ZMeOdKZqNnO1UkyQHSrJ5uV2eZgSFSJZGGrQ8w==",
+  "dgSpecHash": "qEuCxl4oYFGjEJWWCHjTMIQzBTC+3xF+nimWb3pklbboGzLOMq6TDbe13GovQrTUvC1FthkRTP0ZIWlFFZqjlg==",
   "success": true,
   "projectFilePath": "C:\\Users\\Rafael\\Desktop\\AquaContador\\CrossCutting\\CrossCutting.csproj",
   "expectedPackageFiles": [
+    "C:\\Users\\Rafael\\.nuget\\packages\\automapper\\12.0.1\\automapper.12.0.1.nupkg.sha512",
+    "C:\\Users\\Rafael\\.nuget\\packages\\microsoft.csharp\\4.7.0\\microsoft.csharp.4.7.0.nupkg.sha512",
     "C:\\Users\\Rafael\\.nuget\\packages\\microsoft.entityframeworkcore\\6.0.0\\microsoft.entityframeworkcore.6.0.0.nupkg.sha512",
     "C:\\Users\\Rafael\\.nuget\\packages\\microsoft.entityframeworkcore.abstractions\\6.0.0\\microsoft.entityframeworkcore.abstractions.6.0.0.nupkg.sha512",
     "C:\\Users\\Rafael\\.nuget\\packages\\microsoft.entityframeworkcore.analyzers\\6.0.0\\microsoft.entityframeworkcore.analyzers.6.0.0.nupkg.sha512",

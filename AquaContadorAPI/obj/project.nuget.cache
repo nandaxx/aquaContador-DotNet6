@@ -1,9 +1,11 @@
 {
   "version": 2,
-  "dgSpecHash": "AcbD2NVCVe17VS0K/Detq+zrkPHqCGSHGUm6JYWDXyS1bOnNHD0DX4ZAYI+X2M7s4KlEgRZJHRFhNosooDsNMg==",
+  "dgSpecHash": "vfDVJw8isBfXFJ4Vb4iK1CE6yDbNyUbZsgt6vlNO79OvMLg2xnIL/1VaPC87fTsqgzKIErWexoHnVFFj36rgBA==",
   "success": true,
   "projectFilePath": "C:\\Users\\Rafael\\Desktop\\AquaContador\\AquaContadorAPI\\AquaContadorAPI.csproj",
   "expectedPackageFiles": [
+    "C:\\Users\\Rafael\\.nuget\\packages\\automapper\\12.0.1\\automapper.12.0.1.nupkg.sha512",
+    "C:\\Users\\Rafael\\.nuget\\packages\\microsoft.csharp\\4.7.0\\microsoft.csharp.4.7.0.nupkg.sha512",
     "C:\\Users\\Rafael\\.nuget\\packages\\microsoft.entityframeworkcore\\6.0.0\\microsoft.entityframeworkcore.6.0.0.nupkg.sha512",
     "C:\\Users\\Rafael\\.nuget\\packages\\microsoft.entityframeworkcore.abstractions\\6.0.0\\microsoft.entityframeworkcore.abstractions.6.0.0.nupkg.sha512",
     "C:\\Users\\Rafael\\.nuget\\packages\\microsoft.entityframeworkcore.analyzers\\6.0.0\\microsoft.entityframeworkcore.analyzers.6.0.0.nupkg.sha512",
