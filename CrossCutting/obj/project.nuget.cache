@@ -1,10 +1,11 @@
 {
   "version": 2,
-  "dgSpecHash": "DkRhM3CGYIDFwFefU0RycDkhkiGVUnrg9G7UXUO1albxZPkRUp69QP0mFCRts6LfJwmoTnXxORb52bwZKV0Hzg==",
+  "dgSpecHash": "F22pGoq2jSqs5Cpp1XOf/4fJ+S1ZJStmjZNpOan+yRu8cz3tg2dKTJDavDvDHjhm4MxECkgMiJ7AaQgyoxUQtQ==",
   "success": true,
   "projectFilePath": "C:\\Users\\Rafael\\Desktop\\AquaContador\\CrossCutting\\CrossCutting.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\Rafael\\.nuget\\packages\\automapper\\12.0.1\\automapper.12.0.1.nupkg.sha512",
+    "C:\\Users\\Rafael\\.nuget\\packages\\automapper.extensions.microsoft.dependencyinjection\\12.0.1\\automapper.extensions.microsoft.dependencyinjection.12.0.1.nupkg.sha512",
     "C:\\Users\\Rafael\\.nuget\\packages\\microsoft.csharp\\4.7.0\\microsoft.csharp.4.7.0.nupkg.sha512",
     "C:\\Users\\Rafael\\.nuget\\packages\\microsoft.entityframeworkcore\\7.0.3\\microsoft.entityframeworkcore.7.0.3.nupkg.sha512",
     "C:\\Users\\Rafael\\.nuget\\packages\\microsoft.entityframeworkcore.abstractions\\7.0.3\\microsoft.entityframeworkcore.abstractions.7.0.3.nupkg.sha512",

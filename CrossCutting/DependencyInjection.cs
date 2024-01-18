@@ -5,6 +5,7 @@ using Microsoft.EntityFrameworkCore;
 using Microsoft.Extensions.Configuration;
 using Microsoft.Extensions.DependencyInjection;
 using Service.Interfaces;
+using Service.Mapping;
 using Service.Services;
 
 namespace CrossCutting
@@ -23,7 +24,7 @@ namespace CrossCutting
         {
             services.AddScoped<IPersonService, PersonService>();
             services.AddScoped<IDrinkService, DrinkService>();
-           
+            services.AddAutoMapper(typeof(DomainToDto));
             return services;
         }
 

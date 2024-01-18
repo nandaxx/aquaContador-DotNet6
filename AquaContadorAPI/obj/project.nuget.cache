@@ -1,10 +1,11 @@
 {
   "version": 2,
-  "dgSpecHash": "//Yi08lYnilodcS/MYULQJkq0Z30FiseqWrMm371Za4mFZCknJiY0msqz4A7cCBCxmqD/l5zxS/J0mfVKvHiMw==",
+  "dgSpecHash": "e0oraEB9x+OVnlqRKBnUs0XiVz4sDIERFx2Ta9E+Z1ze/SBLffifKffz5/VB7zWgeNj98e7rNlp3L+9RklTzGA==",
   "success": true,
   "projectFilePath": "C:\\Users\\Rafael\\Desktop\\AquaContador\\AquaContadorAPI\\AquaContadorAPI.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\Rafael\\.nuget\\packages\\automapper\\12.0.1\\automapper.12.0.1.nupkg.sha512",
+    "C:\\Users\\Rafael\\.nuget\\packages\\automapper.extensions.microsoft.dependencyinjection\\12.0.1\\automapper.extensions.microsoft.dependencyinjection.12.0.1.nupkg.sha512",
     "C:\\Users\\Rafael\\.nuget\\packages\\humanizer.core\\2.14.1\\humanizer.core.2.14.1.nupkg.sha512",
     "C:\\Users\\Rafael\\.nuget\\packages\\microsoft.csharp\\4.7.0\\microsoft.csharp.4.7.0.nupkg.sha512",
     "C:\\Users\\Rafael\\.nuget\\packages\\microsoft.entityframeworkcore\\7.0.3\\microsoft.entityframeworkcore.7.0.3.nupkg.sha512",

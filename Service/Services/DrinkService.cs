@@ -12,6 +12,12 @@ namespace Service.Services
         private readonly IDrinkRepository _repository;
         private readonly IMapper _mapper;
 
+        public DrinkService(IDrinkRepository repository, IMapper mapper)
+        {
+            _repository = repository ?? throw new ArgumentNullException(nameof(repository));
+            _mapper = mapper ?? throw new ArgumentNullException(nameof(mapper));
+        }
+
         public async Task<ICollection<DrinkDTO>> FindAll()
         {
             var drinks = await _repository.FindAll();
